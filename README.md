@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🦊 wrappingmati
 
-<!--
-**wrappingmati/wrappingmati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Frontend Developer | Data Science | Graphic Design |`**
 
-Here are some ideas to get you started:
+¡Hola! Me llamo Mati y mediante mi marca "wrappingmati" ofrezco servicios de Desarrollo Frontend, soluciones FullStack y diseño de logos, desde Argentina. Con 19 años, mi pasión es crear sitios web cautivadores y estrategias de marca efectivas. ¿Necesitas un logo atractivo? ¡Cuento con eso también! Estoy listo para trabajar contigo, donde sea que te encuentres. ¡Hagamos brillar tu proyecto! Explora mi trabajo en mi sitio web. [www.wrappingmati.com.ar] 🚀✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+### 🧰 Lenguajes y herramientas
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=if+%22drink%22+%3D%3D+coffee%3A+++++code.compile())](https://git.io/typing-svg)
+### Un poco sobre mi
+
+A fines de 2019 y durante el inicio de la cuarentena, empecé a aprender a programar con una notebook que conseguí en la escuela secundaria. Mediante tutoriales de YouTube, cursos gratuitos y documentación, fui desarrollando una pasión por el desarrollo web, especialmente en la rama Front-End. Aproveché el tiempo de cuarentena para capacitarme, ya que quería aprender algo nuevo que me fuera útil a futuro y, a los 16 años, conseguir dinero por cuenta propia. Aunque luego tuve que mudarme y dejar esa notebook atrás, mi pasión por la programación y la creación siguió creciendo.
+
+He trabajado en varios proyectos y aprendido nuevas tecnologías. Aunque también hago trabajos de diseño gráfico y logotipos como freelancer, lo que más disfruto siempre ha sido la programación. Por eso, cada día me esfuerzo en especializarme más en diversas librerías, mejorar mi lógica de programación y, algún día, conseguir un puesto fijo del cual vivir. A pesar de todo, nunca dejé de estudiar e interesarme por el desarrollo web y la programación. Actualmente, busco especializarme como Full Stack y, más adelante, en Data Science. Estoy estudiando una tecnicatura universitaria en Procesamiento y Explotación de Datos en una universidad provincial, y mientras tanto, continúo aprendiendo y trabajando como freelancer.
+
+A mis 19 años, manejo tecnologías como HTML, CSS, JavaScript, Next.js, Node.js, Angular, Python, Tailwind, Vite.js, entre otras. En la parte de backend, tengo experiencia con SQL, Power BI, Google Sheets y Node.js. Tengo proyectos Front-End y Full Stack en mi portafolio web; te invito a revisarlos. Gracias por llegar hasta acá.
+
+Hoy en día, sigo avanzando en mi carrera como programador y diseñador, aprovechando cada oportunidad para seguir aprendiendo y creciendo.
