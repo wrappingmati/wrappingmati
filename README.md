@@ -2,7 +2,7 @@
 
 **`Frontend Developer | Data Science | Graphic Design |`**
 
-¡Hola! Me llamo Mati y mediante mi marca "wrappingmati" ofrezco servicios de Desarrollo Frontend, soluciones FullStack y diseño de logos, Tengo 19 años , soy de Argentina me gusta crear diseños unicos, distintivos y funcionales. ¿Necesitas un logo atractivo? ¡Tambien puedo hacerlo! Estoy listo para trabajar con vos, donde sea que te encuentres. ¡Hagamos destacar tu proyecto! Explora mi trabajo en mi sitio web. [www.wrappingmati.com.ar] 🚀✨
+¡Hola! Me llamo Mati y mediante mi marca "wrappingmati" ofrezco servicios de Desarrollo Frontend, soluciones FullStack y diseño de logos, Tengo 19 años , soy de Argentina y me gusta crear diseños unicos, distintivos y funcionales. ¿Necesitas un logo atractivo? ¡Tambien puedo hacerlo! Estoy listo para trabajar con vos, donde sea que te encuentres. ¡Hagamos destacar tu proyecto! Explora mi trabajo en mi sitio web. [www.wrappingmati.com.ar] 🚀✨
 
   
 
