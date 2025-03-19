@@ -2,7 +2,7 @@
 
 **`Frontend Developer | Data Science | Graphic Design |`**
 
-¡Hola! Me llamo Mati y mediante mi marca "wrappingmati" ofrezco servicios de Desarrollo Frontend, soluciones FullStack y diseño de logos, Tengo 19 años , soy de Argentina y me gusta crear diseños unicos, distintivos y funcionales. ¿Necesitas un logo atractivo? ¡Tambien puedo hacerlo! Estoy listo para trabajar con vos, donde sea que te encuentres. ¡Hagamos destacar tu proyecto! Explora mi trabajo en mi sitio web. [www.wrappingmati.com.ar] 🚀✨
+¡Hola! Me llamo Mati y mediante mi marca "wrappingmati" ofrezco servicios de Desarrollo Frontend, soluciones FullStack y diseño de logos, Tengo 20 años , soy de Argentina y me gusta crear diseños unicos, distintivos y funcionales. ¿Necesitas un logo atractivo? ¡Tambien puedo hacerlo! Estoy listo para trabajar con vos, donde sea que te encuentres. ¡Hagamos destacar tu proyecto! Explora mi trabajo en mi sitio web. [www.wrappingmati.com.ar] 🚀✨
 
   
 
@@ -29,5 +29,5 @@ A fines de 2019 y durante el inicio de la cuarentena, empecé a aprender a progr
 
 He trabajado en varios proyectos y aprendido nuevas tecnologías. Aunque también hago trabajos de diseño gráfico y logotipos como freelancer, lo que más disfruto siempre ha sido la programación. Por eso, cada día me esfuerzo en especializarme más en diversas librerías, mejorar mi lógica de programación y, algún día, conseguir un puesto fijo del cual vivir. A pesar de todo, nunca dejé de estudiar e interesarme por el desarrollo y la programación. Actualmente, busco especializarme como Full Stack y, más adelante, en Data Science. Estoy estudiando una tecnicatura universitaria en Procesamiento y Explotación de Datos en una universidad provincial, y mientras tanto, continúo aprendiendo y trabajando como freelancer.
 
-A mis 19 años, manejo tecnologías como HTML, CSS, JavaScript, Next.js, Node.js, Angular, Python, Tailwind.css, Vite.js, entre otras. En la parte de backend, tengo experiencia con SQL, Power BI, Google Sheets y Node.js. Tengo proyectos Front-End y Full Stack en mi portafolio web; te invito a revisarlos. Gracias por llegar hasta acá.
+Actualmente manejo tecnologías como HTML, CSS, JavaScript, Next.js, Node.js, Angular, Python, Tailwind.css, Vite.js, entre otras. En la parte de backend, tengo experiencia con SQL, Power BI, Google Sheets y Node.js. Tengo proyectos Front-End y Full Stack en mi portafolio web; te invito a revisarlos. Gracias por llegar hasta acá.
 
