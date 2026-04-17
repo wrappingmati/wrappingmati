@@ -1,33 +1,86 @@
-# 🦊 wrappingmati
+# 🦊 WrappingMati
 
-**`Frontend Developer | Data Science | Graphic Design |`**
+**`Full Stack Developer | Data Science Student | AI & Automation Specialist | Branding`**
 
-¡Hola! Me llamo Mati y mediante mi marca "wrappingmati" ofrezco servicios de Desarrollo Frontend, soluciones FullStack y diseño de logos, Tengo 20 años , soy de Argentina y me gusta crear diseños unicos, distintivos y funcionales. ¿Necesitas un logo atractivo? ¡Tambien puedo hacerlo! Estoy listo para trabajar con vos, donde sea que te encuentres. ¡Hagamos destacar tu proyecto! Explora mi trabajo en mi sitio web. [www.wrappingmati.com.ar] 🚀✨
+¡Hola! Soy **Matías**, la mente detrás de **"WrappingMati"**. Desarrollo soluciones digitales integrales que combinan potencia técnica con diseño distintivo. Con **21 años** y basado en Entre Ríos, Argentina, me especializo en transformar problemas complejos en sistemas funcionales, desde interfaces de usuario modernas hasta arquitecturas de datos y automatizaciones inteligentes.
 
-  
+🚀 **¿Buscás potenciar tu proyecto?** Hagámoslo destacar con tecnología de vanguardia e IA.
+🌍 **Disponibilidad:** Remoto para todo el mundo.
+💻 **Explora mi portfolio:** [www.wrappingmati.com.ar](http://www.wrappingmati.com.ar)
 
-### 🧰 Lenguajes y herramientas
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-#
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=if+%22drink%22+%3D%3D+coffee%3A+++++code.compile())](https://git.io/typing-svg)
-### Un poco sobre mi
 
-A fines de 2019 y durante el inicio de la cuarentena, empecé a aprender a programar con una notebook que conseguí en la escuela secundaria. Mediante tutoriales de YouTube, cursos gratuitos y documentación, fui desarrollando una pasión por el desarrollo web, especialmente en la rama Front-End. Aproveché el tiempo de cuarentena para capacitarme, ya que quería aprender algo nuevo que me fuera útil a futuro y a su vez poder generar ingresos por cuenta propia. Aunque luego tuve que mudarme y dejar esa notebook atrás quedandome asi sin ningun tipo de herramienta para seguir programando, mi pasión por la programación ya habia nacido.
 
-He trabajado en varios proyectos y aprendido nuevas tecnologías. Aunque también hago trabajos de diseño gráfico y logotipos como freelancer, lo que más disfruto siempre ha sido la programación. Por eso, cada día me esfuerzo en especializarme más en diversas librerías, mejorar mi lógica de programación y, algún día, conseguir un puesto fijo del cual vivir. A pesar de todo, nunca dejé de estudiar e interesarme por el desarrollo y la programación. Actualmente, busco especializarme como Full Stack y, más adelante, en Data Science. Estoy estudiando una tecnicatura universitaria en Procesamiento y Explotación de Datos en una universidad provincial, y mientras tanto, continúo aprendiendo y trabajando como freelancer.
+---
 
-Actualmente manejo tecnologías como HTML, CSS, JavaScript, Next.js, Node.js, Angular, Python, Tailwind.css, Vite.js, entre otras. En la parte de backend, tengo experiencia con SQL, Power BI, Google Sheets y Node.js. Tengo proyectos Front-End y Full Stack en mi portafolio web; te invito a revisarlos. Gracias por llegar hasta acá.
+### 🧰 Stack Tecnológico
 
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+**Automation & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**Herramientas & Entorno**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+</p>
+
+---
+
+### 🎓 Educación e Idiomas
+
+* 📚 **Licenciatura en Ciencia de Datos** | *UNER (En curso)*
+* 🗣️ **Español:** Nativo
+* 🗣️ **Inglés:** Intermedio (B1)
+
+---
+
+### 📖 Mi Trayectoria: De la curiosidad a la Ciencia de Datos
+
+Mi camino en la tecnología comenzó de forma disruptiva a finales de 2019. Con una netbook escolar y la llegada de la cuarentena, descubrí en la programación no solo una herramienta de creación, sino una vocación. Lo que empezó como un desafío autodidacta con tutoriales y documentación, se convirtió en una pasión innegociable. A pesar de los obstáculos iniciales y la falta temporal de herramientas, mi compromiso con el código nunca se detuvo; esa etapa forjó mi capacidad de adaptación y resolución de problemas.
+
+Hoy, esa curiosidad inicial ha evolucionado hacia la formación académica y profesional:
+* 🎓 **Estudiante Universitario:** Profesionalizando mi enfoque analítico en la Licenciatura en Ciencia de Datos de la UNER.
+* 🛠️ **Evolución Full Stack:** Transicioné del diseño visual a la arquitectura completa de aplicaciones, integrando bases de datos y lógica de servidor robusta.
+* 🤖 **Especialista en Automatización:** Implemento soluciones complejas con herramientas como n8n, Make y Google Apps Script para optimizar procesos de negocio B2B.
+
+Mi objetivo es claro: ser el puente entre las necesidades de una empresa y las soluciones tecnológicas más avanzadas del mercado, aportando siempre un ojo crítico para el diseño y el análisis de datos.
+
+---
+
+### Contacto
+
+
+* 📫 **Contacto directo:** [+54 9 343 503-2705](https://wa.me/543435032705)
+* 📍 **Ubicación:** Entre Ríos, Argentina.
+* 🤝 **Interesado en:** Colaboraciones B2B, desarrollo de portales y automatizaciones de procesos.
