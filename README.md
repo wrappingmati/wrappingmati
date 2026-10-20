@@ -61,7 +61,7 @@
 
 * 📚 **Licenciatura en Ciencia de Datos** | *UNER (En curso)*
 * 🗣️ **Español:** Nativo
-* 🗣️ **Inglés:** Intermedio (B1)
+* 🗣️ **Inglés:** Intermedio (C1)
 
 ---
 
